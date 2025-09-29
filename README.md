@@ -1,6 +1,3 @@
-Absolutely! Here’s a fully formatted `README.md` file for **LogLens CLI**, ready to be added to your GitHub repository:
-
-````markdown
 # LogLens CLI 🎯
 
 > Real-time CLI tool to analyze the "mood" of your code, logs, and projects with system insights, progress tracking, and colorful outputs.
@@ -60,8 +57,6 @@ venv\Scripts\activate   # Windows
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ## 🔹 Commands & Usage
 
